@@ -14,3 +14,9 @@
 		}
 	}
 </script>
+
+<style >
+.uni-page-head {
+    text-align: center;
+}
+</style>
